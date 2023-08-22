@@ -7,4 +7,4 @@ Write a one or two sentence description of your cafe.
 | Cuisine | Contributor          |
 | :------ | -------------------- |
 | Nichakorn | Beverage    |
-| Dessert | Setthapon Thadisakun |
+| [Dessert](menu.md#Dessert) | Setthapon Thadisakun |
