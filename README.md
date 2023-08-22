@@ -6,4 +6,4 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|                                       |                    |
+|  [Thai food](menu.md#thai-food)             | Jiratchaya Thongsuthum   |
