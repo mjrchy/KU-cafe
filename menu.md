@@ -1,5 +1,5 @@
 ## Menu
-[Appetizer](#appetizer) | [Japanese Food](#Japanese Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverage-menu)
+[Appetizer](#appetizer) | [Japanese Food](#Japanese-Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverages) | [Dessert](#dessert)
 
 ## Appetizer
 | Description                     | Price (THB) |
@@ -37,3 +37,12 @@
 | Soft Drinks          |      35     |
 | Bottled Water        |      15     |
 | Fresh Fruit Smoothie |      75     |
+
+## Dessert
+| Description            |    Price |
+| :--------------------- | -------: |
+| Mango with Sticky Rice | 100 |
+| Coconut Ice Cream      |  60 |
+| Thai Sweet Roti        |  50 |
+| Khanom Chan            |  60 |
+| Bua Loy Nam King       |  50 |
