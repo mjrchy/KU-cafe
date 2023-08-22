@@ -1,5 +1,13 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Beverage Menu](#beverage-menu) | ...
 
-## First Food Section
+
+## Beverage Menu
+| Description          | Price (THB) |
+|:---------------------|------------:|
+| Thai Iced Tea        |          50 |
+| Coffee (Iced or Hot) |          80 |
+| Soft Drinks          |          35 |
+| Bottled Water        |          15 |
+| Fresh Fruit Smoothie |          75 |
