@@ -1,5 +1,12 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Japanese Food](#Japanese Food) | ...
 
-## First Food Section
+## Japanese Food
+| Description                     | Price (THB) |
+|:--------------------------------|-----------:|
+| Sushi (per piece)               | 150   |
+| Ramen                           | 200   |
+| Tempura Set                     | 300  |
+| Sashimi (per plate)             | 400  |
+| Matcha Green Tea               | 100   |
