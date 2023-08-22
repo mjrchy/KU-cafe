@@ -1,7 +1,14 @@
 ## Menu
+[Appetizer](#appetizer) | [Japanese Food](#Japanese-Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverages) | [Dessert](#dessert)
 
-
-[Japanese Food](#Japanese-Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverage-menu)
+## Appetizer
+| Description                     | Price (THB) |
+|:--------------------------------|------------:|
+| Spring Rolls                    |          60 |
+| Tod Mun Pla                     |          60 |
+| Som Tum Thai                    |          80 |
+| Satay (Skewers)                 |          80 |
+| Miang Kham                      |          60 |
 
 ## Japanese Food
 | Description                     | Price (THB) |
@@ -30,3 +37,12 @@
 | Soft Drinks          |      35     |
 | Bottled Water        |      15     |
 | Fresh Fruit Smoothie |      75     |
+
+## Dessert
+| Description            |    Price |
+| :--------------------- | -------: |
+| Mango with Sticky Rice | 100 |
+| Coconut Ice Cream      |  60 |
+| Thai Sweet Roti        |  50 |
+| Khanom Chan            |  60 |
+| Bua Loy Nam King       |  50 |
