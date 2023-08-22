@@ -8,6 +8,3 @@ Write a one or two sentence description of your cafe.
 | Cuisine                        | Contributor        |
 |:-------------------------------|--------------------|
 | [Appetizer](menu.md#Appetizer) | Navathon Limamapar |
-
-
-
