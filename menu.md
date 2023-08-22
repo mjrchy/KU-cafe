@@ -1,6 +1,5 @@
 ## Menu
-[Appetizer](#appetizer) | [Japanese Food](#Japanese Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverages) | [Dessert](#dessert)
-
+[Appetizer](#appetizer) | [Japanese Food](#Japanese-Food) | [Thai food](#Thai-Food) | [Beverage Menu](#beverages) | [Dessert](#dessert)
 
 ## Appetizer
 | Description                     | Price (THB) |

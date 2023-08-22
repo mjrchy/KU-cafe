@@ -1,13 +1,13 @@
-# Name of Your Cafe
+# Cafe FusionEats
 
-Write a one or two sentence description of your cafe.
+Where Cultures Collide in Delicious Harmony. Experience a culinary journey that combines the best of international cuisines, creating unforgettable fusion dishes.
 
 ## [Menu](menu.md)
 
 
 | Cuisine                               | Contributor              |
 |:--------------------------------------|--------------------------|
-|  [Thai food](menu.md#thai-food)       | Jiratchaya Thongsuthum   |
+| [Thai food](menu.md#thai-food)       | Jiratchaya Thongsuthum   |
+| [Japanese Food](menu.md#Japanese-Food)|   Warat Poovorakit |
 | [Beverage](menu.md#beverages)         | Nichakorn Chanajitpairee |
 | [Dessert](menu.md#Dessert)            | Setthapon Thadisakun     |
-
