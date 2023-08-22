@@ -1,6 +1,6 @@
 ## Menu
 
-[Japanese Food](#Japanese Food) | ...
+[Japanese Food](#Japanese-Food) | ...
 
 ## Japanese Food
 | Description                     | Price (THB) |
