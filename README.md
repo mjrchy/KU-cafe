@@ -6,4 +6,4 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|        [Japanese Food](menu.md#Japanese Food)                               |   Warat Poovorakit                 |
+| [Japanese Food](menu.md#Japanese-Food)|   Warat Poovorakit |
